@@ -1,2 +1,2 @@
 # shelter_RS
-# https://github.com/yuliabalkiss/shelter_RS/
+# https://yuliabalkiss.github.io/shelter_RS/
