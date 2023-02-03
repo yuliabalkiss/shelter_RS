@@ -1,2 +1,2 @@
 # shelter_RS
-# https://github.com/yuliabalkiss/shelter_RS/pages/pets/
+# https://github.com/yuliabalkiss/shelter_RS/
